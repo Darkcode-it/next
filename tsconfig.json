@@ -19,6 +19,9 @@
     "jsx": "preserve",
     "plugins": [
       {
+        "base": "/next/"
+      },
+      {
         "name": "next"
       }
     ]
