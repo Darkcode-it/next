@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "img": "/img/product (1).jpg",
+            "title": "product1",
+            "description": "Created a flex column container for each product card",
+            "price": 20
+        },
+        {
+            "id": 2,
+            "img": "/img/product (2).jpg",
+            "title": "product2",
+            "description": "Created a flex column container for each product card",
+            "price": 30
+        },
+        {
+            "id": 3,
+            "img": "/img/product (3).jpg",
+            "title": "product3",
+            "description": "Created a flex column container for each product card",
+            "price": 40
+        },
+        {
+            "id": 4,
+            "img": "/img/product (4).jpg",
+            "title": "product4",
+            "description": "Created a flex column container for each product card",
+            "price": 50
+        },
+        {
+            "id": 5,
+            "img": "/img/product (5).jpg",
+            "title": "product5",
+            "description": "Created a flex column container for each product card",
+            "price": 60
+        }
+    ]
+} 
